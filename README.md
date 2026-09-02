@@ -1,2 +1,2 @@
-EventMatch is a web platform designed to help users discover local cultural and community events based on their interests. 
-It includes features such as event search, filtering, festival calendars, RSVP, reminders, and connecting with other attendees.
+Picstore is a cloud-based image content management system designed for uploading, organizing, searching, and sharing images and blogs. 
+It also supports features such as tags, likes, comments, and public or private content.
